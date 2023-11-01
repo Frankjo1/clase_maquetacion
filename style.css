@@ -1,0 +1,15 @@
+* {
+    color: rgb(255, 0, 0);
+}
+p {
+    color: blue;
+}
+.parrafo {
+    color: rgb(44, 22, 143);
+}
+p.right {
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16;
+}
